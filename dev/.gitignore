@@ -1,0 +1,11 @@
+# terraform
+.terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+*.auto.tfvars
+
+#pem
+.pem
+pem
